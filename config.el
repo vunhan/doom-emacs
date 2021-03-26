@@ -107,7 +107,6 @@
 
 ;; lsp-ui configs
 ;; ref: https://github.com/emacs-lsp/lsp-ui
-;; (setq lsp-ui-sideline-show-diagnostics t)
 (setq lsp-ui-sideline-enable t)
 (setq lsp-ui-sideline-show-hover t)
 (setq lsp-ui-sideline-ignore-duplicate t)
